@@ -1,4 +1,4 @@
-package main
+package geecache
 
 // 真实缓存数据
 type ByteView struct {
